@@ -20,7 +20,7 @@
           "Dapper": "2.0.123",
           "EPPlus": "6.0.8",
           "ERPServer.DataAccess": "1.0.0",
-          "ERPServer.ExcelExport": "1.0.4",
+          "ERPServer.ExcelExport": "1.0.5",
           "ERPServer.Models": "1.0.0",
           "HotChocolate.AspNetCore": "14.3.0",
           "IMS.JwtAuth.Library": "1.0.0",
@@ -329,7 +329,7 @@
           }
         }
       },
-      "ERPServer.ExcelExport/1.0.4": {
+      "ERPServer.ExcelExport/1.0.5": {
         "dependencies": {
           "ClosedXML": "0.95.2",
           "Dapper": "2.0.123",
@@ -5231,12 +5231,12 @@
       "path": "epplus.system.drawing/6.0.0",
       "hashPath": "epplus.system.drawing.6.0.0.nupkg.sha512"
     },
-    "ERPServer.ExcelExport/1.0.4": {
+    "ERPServer.ExcelExport/1.0.5": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-bb0AdOr3Ds43XI6T0gOGwiuEQi5WcjYK9u8y5Y9Ms77EbJiqhcmgUuw+Zj0Mj91izgu/R47/d3Ki4FVbW/qFVw==",
-      "path": "erpserver.excelexport/1.0.4",
-      "hashPath": "erpserver.excelexport.1.0.4.nupkg.sha512"
+      "sha512": "sha512-0R82wrPTb9w+ZZFLtIU5i1nLjCdn/zh8fkkSprfn28WFMVsX5aKygLti5UjS2eBrtjApmUUOuUbK3QYTBRrbEg==",
+      "path": "erpserver.excelexport/1.0.5",
+      "hashPath": "erpserver.excelexport.1.0.5.nupkg.sha512"
     },
     "ExcelDataReader/3.6.0": {
       "type": "package",
